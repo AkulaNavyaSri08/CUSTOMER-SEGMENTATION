@@ -20,7 +20,9 @@ This project performs customer segmentation using K-Means Clustering based on cu
 - Matplotlib
 - Scikit-learn
 - Microsoft Excel
-- Visual Studio Code
+- Visual Studio Code<img width="1484" height="642" alt="Customer" src="https://github.com/user-attachments/assets/c0edd386-fc0d-47b9-81ca-8b413c974bf0" />
+<img width="1484" height="642" alt="Customer" src="https://github.com/user-attachments/assets/8502f0f2-6b36-4b63-88e6-3c64c782da3d" />
+
 
 ---
 
@@ -33,6 +35,10 @@ The dataset contains:
 - Spending Score
 
 Dataset File:
+<a href="https://github.com/AkulaNavyaSri08/CUSTOMER-SEGMENTATION/blob/main/Mall_Customers.csv">dataset view</a>
 ```text
-<img width="1484" height="642" alt="Customer" src="https://github.com/user-attachments/assets/65a4a6d2-e95a-484d-b677-a78839772ce9" />
+
+<img width="1484" height="642" alt="Customer" src="https://github.com/user-attachments/assets/7aaf7177-b9d5-4ed0-92b0-c0a72a3f2811" />
+
+
 
